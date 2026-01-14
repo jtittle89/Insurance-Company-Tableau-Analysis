@@ -94,5 +94,6 @@ Tools & Skills Demonstrated
     
     Data Filtering for Business Users
 
-<img width="1652" height="861" alt="image" src="https://github.com/user-attachments/assets/dfa34dd5-a96c-404a-a920-924664b0b9aa" />
+<img width="1702" height="860" alt="image" src="https://github.com/user-attachments/assets/a53f3f94-6f67-44a7-82e4-286b3814ad07" />
+
 
